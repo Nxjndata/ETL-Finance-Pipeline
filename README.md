@@ -1,4 +1,4 @@
-**#Financial Data ETL Pipeline**
+**Financial Data ETL-Pipeline**
 A scalable pipeline to collect, clean, and analyze equity/financial data
 
 **Project Overview**
