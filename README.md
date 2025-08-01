@@ -1,4 +1,4 @@
-# etl-finance - ETL pipeline to collect, clean, transform and save financial data
+# ETL-finance - ETL pipeline to collect, clean, transform and save financial data
 
 This repository basics of an ETL pipeline. ETL is an integral part in Data Engineering. For the purpose of  ease, I am collecting finance data (structured and unstructured) from various sources. Using the following steps you'll be able to run this ETL pipeline successfuly:
 
