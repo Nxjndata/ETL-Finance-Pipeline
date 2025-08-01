@@ -44,7 +44,7 @@ Transform:
 Cleans text (news articles) and numerical data (stock prices)
 Standardizes formats (e.g., dates, currency)
 Load: Writes structured output to MySQL for analysis.
-https://via.placeholder.com/600x200?text=ETL+Process+Flow 
+
 
 Business Applications
 
