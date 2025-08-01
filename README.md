@@ -66,21 +66,22 @@ python etl.py
 
 1. Institutional-Grade Data Integrations
 
-Expand API support for premium financial data providers (e.g., Bloomberg, S&P Global, FactSet)
-Implement adaptive scraping for regulatory filings (SEC, ESMA, etc.)
+   Expand API support for premium financial data providers (e.g., Bloomberg, S&P Global, FactSet)
+   Implement adaptive scraping for regulatory filings (SEC, ESMA, etc.)
 
 2. Intelligent Data Validation
-Real-time anomaly detection for outliers in pricing/volume data
-NLP-powered sentiment analysis on news/filings to flag material events
+
+    Real-time anomaly detection for outliers in pricing/volume data
+    NLP-powered sentiment analysis on news/filings to flag material events
 
 3. Cloud-Native Deployment
-Modularize pipeline for serverless execution (AWS Lambda/Azure Functions)
-Add Airflow/Prefect orchestration for scheduled runs and dependencies
+    Modularize pipeline for serverless execution (AWS Lambda/Azure Functions)
+    Add Airflow/Prefect orchestration for scheduled runs and dependencies
 
 4. Advanced Analytics Ready
-Generate derived metrics (e.g., index constituent correlations, liquidity scores)
-Output support for columnar formats (Parquet) optimized for analytics tools
+    Generate derived metrics (e.g., index constituent correlations, liquidity scores)
+    Output support for columnar formats (Parquet) optimized for analytics tools
 
 5. Enterprise Scalability
-Role-based access controls for sensitive financial data
-Audit logging for compliance with financial data governance standards
+     Role-based access controls for sensitive financial data
+     Audit logging for compliance with financial data governance standards
